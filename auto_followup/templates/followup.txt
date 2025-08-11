@@ -1,0 +1,6 @@
+Hi {recipient_name},
+
+Just checking back on this. Did you have a chance to review my note below about "{original_subject}"?
+
+Thanks,
+{from_name}
